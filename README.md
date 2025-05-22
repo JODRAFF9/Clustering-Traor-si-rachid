@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="docs/ansd.jpg" alt="Image 1" width="45%" />
+  <img src="docs/ensae.png" alt="Image 2" width="45%" />
+</p>
+
+![Demo GIF](docs/TRAORE-SIE-RACHID-TP-clustering.ipynb-Visual-Studio-Code-2025-05-22-15-27-03.gif)
+
 ### 🧠 Objectif du notebook
 
 Le notebook effectue une **analyse de clustering** sur le jeu de données `digits` de `sklearn`, qui contient des images de chiffres manuscrits (0 à 9) représentées par 64 caractéristiques (pixels). Il utilise principalement **KMeans**, diverses techniques de visualisation, et des métriques pour évaluer la qualité du clustering.
